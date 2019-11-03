@@ -54,19 +54,7 @@ class ViewController: UIViewController {
         
     }
     
-    @IBAction func switchAChangedValue(_ sender: Any) {
-        checkIfActionCompleted()
-    }
-    
-    @IBAction func switchBChangedValue(_ sender: Any) {
-        checkIfActionCompleted()
-    }
-    @IBAction func switchCChangedValue(_ sender: Any) {
-        checkIfActionCompleted()
-    }
-    
-
-    @IBAction func switchDChangedValue(_ sender: Any) {
+    @IBAction func switchChangedValue(_ sender: Any){
         checkIfActionCompleted()
     }
     

@@ -37,7 +37,7 @@
                                                     <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="siM-F2-JmP">
                                                         <rect key="frame" x="0.0" y="0.0" width="51" height="31"/>
                                                         <connections>
-                                                            <action selector="switchCChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="e6m-yf-D8A"/>
+                                                            <action selector="switchChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="jet-XJ-e83"/>
                                                         </connections>
                                                     </switch>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="C" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dtU-Uj-5cc">
@@ -54,7 +54,7 @@
                                                     <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="0JP-7e-Ene">
                                                         <rect key="frame" x="0.0" y="0.0" width="51" height="31"/>
                                                         <connections>
-                                                            <action selector="switchDChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="Y9U-bl-Xjp"/>
+                                                            <action selector="switchChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="Vtj-uF-rIq"/>
                                                         </connections>
                                                     </switch>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="D" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="asa-pq-qZT">
@@ -88,7 +88,7 @@
                                                     <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="a56-nZ-w3u">
                                                         <rect key="frame" x="0.0" y="0.0" width="51" height="31"/>
                                                         <connections>
-                                                            <action selector="switchAChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="q82-SQ-NQA"/>
+                                                            <action selector="switchChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="cDj-fn-L4O"/>
                                                         </connections>
                                                     </switch>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="A" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RZ6-2z-Esp">
@@ -105,7 +105,7 @@
                                                     <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="W8C-KS-Awm">
                                                         <rect key="frame" x="0.0" y="0.0" width="51" height="31"/>
                                                         <connections>
-                                                            <action selector="switchBChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="jpf-Bu-pbC"/>
+                                                            <action selector="switchChangedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="xKe-fl-LBZ"/>
                                                         </connections>
                                                     </switch>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="B" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QMa-B7-D11">
