@@ -50,7 +50,7 @@ class ViewController: UIViewController {
     }
     
     func checkIfActionCompleted() {
-        continueButton.isEnabled = checkStateOfSwitches() ? true : false
+        continueButton.isEnabled = checkStateOfSwitches()
         
     }
     
