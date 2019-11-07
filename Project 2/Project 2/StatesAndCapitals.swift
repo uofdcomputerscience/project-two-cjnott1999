@@ -70,7 +70,7 @@ struct StatesAndCapitals {
                 "Georgia": "Atlanta",
                 "Hawaii": "Honolulu",
                 "Idaho": "Boise",
-                "Illinios": "Springfield",
+                "Illinois": "Springfield",
                 "Indiana": "Indianapolis",
                 "Iowa": "Des Monies",
                 "Kansas": "Topeka",

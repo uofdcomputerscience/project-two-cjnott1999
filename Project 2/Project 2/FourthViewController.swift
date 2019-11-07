@@ -24,7 +24,7 @@ class FourthViewController: UIViewController{
     
     func actionCompleted() -> Bool{
         let valueSelected = pickerData.states[statePicker.selectedRow(inComponent: 0)]
-        return textField.text?.lowercased() == pickerData.capitals[valueSelected]?.lowercased()
+        return textField.text?.lowercased().trimmingCharacters(in: .whitespacesAndNewlines) == pickerData.capitals[valueSelected]?.lowercased()
     }
     
 
