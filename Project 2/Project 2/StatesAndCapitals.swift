@@ -85,7 +85,7 @@ struct StatesAndCapitals {
                 "Missouri": "Jefferson City",
                 "Montana": "Helena",
                 "Nebraska": "Lincoln",
-                "Neveda": "Carson City",
+                "Nevada": "Carson City",
                 "New Hampshire": "Concord",
                 "New Jersey": "Trenton",
                 "New Mexico": "Santa Fe",
